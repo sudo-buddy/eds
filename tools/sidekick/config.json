@@ -1,0 +1,17 @@
+{
+    "project": "franklin-experience-decisioning",
+    "plugins": [
+      {
+        "id": "experience-decisioning-ui",
+        "title": "Experience Decisioning",
+        "environments": [
+          "dev",
+          "edit",
+          "preview"
+        ],
+        "url": "https://localhost:9080",
+        "isPalette": true,
+        "paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width: 600px; height: calc(100vh - 60px)"
+      }
+    ]
+  }
